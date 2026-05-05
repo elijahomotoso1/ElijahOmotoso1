@@ -19,7 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
   <h2>👨‍💻 Certifications:</h2>
-  Google Cybersecurity Professional - Insert cert link here wihtout hypen
+  Google Cloud Cybersecurity Professional - Insert cert link here wihtout hypen
 
 <h2>📺 Popular YouTube Videos</h2>
 
