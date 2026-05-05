@@ -1,10 +1,19 @@
 <h1>Hi, I'm Elijah! <br/><a href="https://github.com/ElijahOmotoso1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ElijahOmotoso/">Infrastructure Architecture Specialist</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Project Status: Completed as part of the Google Cloud Cybersecurity Professional Certificate.</b>
+  - 🎯 Project Objective
+Investigate and mitigate a critical security breach for "Cymbal Retail," an organization whose cloud infrastructure was compromised due to misconfigured firewalls and insecure IAM policies. The goal was to identify the root cause, eradicate the threat, and restore secure operations while ensuring compliance with PCI-DSS frameworks.
+
+<h2>🛠️ Security Tools Used </h2>
+- Security Command Center (SCC): Used for threat detection and reviewing high-severity findings like "Anomalous IAM Grant".
+- Cloud Logging: Analyzed VPC flow logs and audit logs to trace attacker activity and identify malicious IP addresses.
+- IAM & Admin: Audited service accounts and remediated overly permissive roles that allowed the initial breach.
+- Cloud Shell: Executed gcloud CLI commands to export findings and update firewall configurations.
+
+
+
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
